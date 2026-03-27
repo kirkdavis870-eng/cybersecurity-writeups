@@ -1,0 +1,38 @@
+# TryHackMe – [Network Fundamentals]
+
+## Objective
+The goal of this room is to learn the basics and fundamentals of how networking works
+
+---
+
+## Tools Used
+- Windows Command Prompt
+
+---
+
+## Recon
+
+Using windows command proompt I identifity a device to see if there was an established connection between devieces
+Using the syntax ping(ip address or websites url)
+
+---
+
+## Analysis
+
+The command ping show me there was a connection between devices. 
+---
+
+## Exploitation
+
+Explain exactly what you did and WHY.
+
+---
+
+## Key Takeaways
+I learn the importance of networking and how devices communicate within a network.
+Devices can communicate starting with Ip address or MAC address. 
+Also there are two different confirguratons of Ip address Ivp4 and Ivp6. The importance of the two is to solve the growing device problem.
+Number of devices growing at a rapid rate. 
+
+Devices use ping in order to communicate to different Ip addresses. Each different address is a different device. 
+
